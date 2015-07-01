@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "实现android控件TabIndicator的效果，主要用于类似网易新闻客户端和微信（android版）效果."
   s.description      = <<-DESC
-                       实现android控件TabIndicator的效果，主要用于类似网易新闻客户端和微信（android版）效果。2015
+                       实现android控件TabIndicator的效果，主要用于类似网易新闻客户端和微信（android版）效果。  2015
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "daniel.sun" => "sundl1988@163.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/TabIndicator.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/iosmvn/TabIndicator.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
