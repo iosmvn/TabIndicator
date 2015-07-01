@@ -1,0 +1,24 @@
+PODS:
+  - FBSnapshotTestCase (2.0.2):
+    - FBSnapshotTestCase/SwiftSupport (= 2.0.2)
+  - FBSnapshotTestCase/Core (2.0.2)
+  - FBSnapshotTestCase/SwiftSupport (2.0.2):
+    - FBSnapshotTestCase/Core
+  - Kiwi (2.3.1)
+  - TabIndicator (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Kiwi
+  - TabIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  TabIndicator:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: fd500d5b282c4ec60215d26d0b58b0cf271dd0d6
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+  TabIndicator: f85b072305e040d8425fac636f2d4bb53ec9b6e5
+
+COCOAPODS: 0.37.2

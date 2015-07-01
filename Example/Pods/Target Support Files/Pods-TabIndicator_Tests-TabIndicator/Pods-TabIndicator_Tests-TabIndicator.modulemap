@@ -1,0 +1,6 @@
+framework module TabIndicator {
+  umbrella header "Pods-TabIndicator_Tests-TabIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}

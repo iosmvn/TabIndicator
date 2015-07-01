@@ -1,0 +1,25 @@
+{
+  "name": "TabIndicator",
+  "version": "0.1.0",
+  "summary": "A short description of TabIndicator.",
+  "description": "                       An optional longer description of TabIndicator\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/TabIndicator",
+  "license": "MIT",
+  "authors": {
+    "daniel.sun": "sundl1988@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/TabIndicator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "TabIndicator": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

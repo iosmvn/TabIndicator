@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'TabIndicator_Example', :exclusive => true do
+  pod "TabIndicator", :path => "../"
+end
+
+target 'TabIndicator_Tests', :exclusive => true do
+  pod "TabIndicator", :path => "../"
+
+  pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+end
