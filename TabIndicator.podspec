@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "TabIndicator"
-  s.version          = "0.1.5"
+  s.version          = "0.1.7"
   s.summary          = "实现android控件TabIndicator的效果，主要用于类似网易新闻客户端和微信（android版）效果."
   s.description      = <<-DESC
                        实现android控件TabIndicator的效果，主要用于类似网易新闻客户端和微信（android版）效果。  2015
